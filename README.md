@@ -1,0 +1,4 @@
+# App-Ionic
+ *.jar >> gitignore
+
+
